@@ -2,7 +2,7 @@
 
 **Data Scientist** specializing in **Healthcare Analytics** | Turning clinical & claims data into actionable insights
 
-📍 Phoenix, AZ | 🎓 MS in Biomedical Informatics & Data Science @ Arizona State University (4.0 GPA)
+🎓 MS in Biomedical Informatics & Data Science @ Arizona State University 
 
 ---
 
